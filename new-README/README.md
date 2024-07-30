@@ -1,9 +1,9 @@
-# a
+# test
 
 
 
 ## Description
-a
+To test this
 
 ## Table of Contents
 * [Installation](#installation)
@@ -14,18 +14,18 @@ a
 * [Questions](#questions)
 
 ## Installation
-a
+download, run, select generated readme
 
 ## Usage
-a
+run in command lin
 
 
 
 ## Contributing
-a
+by messaging me using the info in the generated readme
 
 ## Tests
-a
+test by running in command line
 
 ## Questions
-If you have any questions, you can find me on [GitHub](https://github.com/a) or contact me via email at a.
+If you have any questions, find me at [GitHub](https://github.com/Redwolf917) or contact me via email at zippy@bing.com.
