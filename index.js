@@ -19,22 +19,22 @@ const questions = [
   {
     type: 'input',
     name: 'installation',
-    message: 'What are the installation instructions?',
+    message: 'What are the installation instructions?:',
   },
   {
     type: 'input',
     name: 'usage',
-    message: 'How do you use this project?',
+    message: 'How do you use this project?:',
   },
   {
     type: 'input',
     name: 'contributing',
-    message: 'How can others contribute to this project?',
+    message: 'How can others contribute to this project?:',
   },
   {
     type: 'input',
     name: 'tests',
-    message: 'What are the test instructions?',
+    message: 'What are the test instructions?:',
   },
   {
     type: 'list',
@@ -45,12 +45,12 @@ const questions = [
   {
     type: 'input',
     name: 'github',
-    message: 'What is your GitHub username?',
+    message: 'What is your GitHub username?:',
   },
   {
     type: 'input',
     name: 'email',
-    message: 'What is your email address?',
+    message: 'What is your email address?:',
   },
 ];
 

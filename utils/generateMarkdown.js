@@ -1,5 +1,5 @@
 // Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
+// If no license, return empty string
 function renderLicenseBadge(license) {
   if (license !== 'None') {
     return `![License](https://img.shields.io/badge/License-${license}-blue.svg)`;
@@ -8,7 +8,7 @@ function renderLicenseBadge(license) {
 }
 
 // Create a function that returns the license link
-// If there is no license, return an empty string
+// If no license, return empty string
 function renderLicenseLink(license) {
   if (license !== 'None') {
     return `\n* [License](#license)\n`;
@@ -17,7 +17,7 @@ function renderLicenseLink(license) {
 }
 
 // Create a function that returns the license section of README
-// If there is no license, return an empty string
+// If no license, return empty string
 function renderLicenseSection(license) {
   if (license !== 'None') {
     return `## License
@@ -59,7 +59,7 @@ ${data.contributing}
 ${data.tests}
 
 ## Questions
-If you have any questions, you can find me on [GitHub](https://github.com/${data.github}) or contact me via email at ${data.email}.
+If you have any questions, find me at [GitHub](https://github.com/${data.github}) or contact me via email at ${data.email}.
 `;
 }
 
